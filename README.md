@@ -1,1 +1,1 @@
-# Day2
+# Algorithms
